@@ -1,1 +1,1 @@
-9. Bye bye My first directory
+ a script that changes the working directory to the previous one.
