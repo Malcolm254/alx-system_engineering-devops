@@ -5,6 +5,7 @@ A comprehensive systems engineering and DevOps repository containing production-
 
 ---
 🛠️ Technologies & Tools Used
+
 Shell Scripting (Bash): Used for automating Linux system workflows, managing processes, executing regular expressions, and parsing continuous text streams. 
 
 Puppet & Ruby: Utilized as a declarative configuration management tool to automate server provisions and define infrastructure state machines.
@@ -12,6 +13,8 @@ Puppet & Ruby: Utilized as a declarative configuration management tool to automa
 Linux Networking & Servers: Hands-on integration using Nginx/Apache web servers, SSH authentication key pairs, HAProxy load balancers, and firewalls (UFW).
 
 Python & MySQL: Implemented for basic programmatic API testing, database initialization scripts, and system monitoring tasks.
+
+
 ---
 ✨ Core Features
 Infrastructure Automation: Complete automation profiles ranging from basic Linux environment permissions to full environment setup tasks.
@@ -21,6 +24,8 @@ Configuration Management (IaC): Automated server provisioning code designed to c
 Web Stack Debugging: Deep-dive solutions addressing web stack failures, handling everything from missing system dependencies to active server runtime errors.  
 
 Secure Networking Base: Practical server hardening steps including custom firewall implementations, reverse proxies, and valid SSL/TLS certificate handling.
+
+
 ---
 ⚙️ The Development Process
 
